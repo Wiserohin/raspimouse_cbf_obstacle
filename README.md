@@ -1,6 +1,5 @@
-# Coverage control with Control Barrier Function(CBF)
-Coverage control with CBF for collision avoidance on Gazebo RaspberryPiMouse simulator. 
-<img src= https://user-images.githubusercontent.com/76491592/163386243-04272893-cfdd-4d75-9c76-4e237abfbc62.gif>
+# Obstacle Avoidance with Control Barrier Function(CBF)
+Obstacle Avoidance using CBF and coverage using Centroidal Voronoi Tessellation (CVT). 
 
 ## Requirements
 
@@ -8,8 +7,8 @@ Coverage control with CBF for collision avoidance on Gazebo RaspberryPiMouse sim
   - ROS
     - [Noetic Ninjemys](http://wiki.ros.org/noetic/Installation/Ubuntu)
   - Gazebo
-    - Gazebo 9.x
+    - Gazebo 9.x (Included with ROS installation)
   - Package
     - [Multiple RaspberryPiMouse robots simulator](https://github.com/keeratifts/Multiple-RaspberryPiMouse-robots-simulator.git)
   - Python
-    - Pyhton 3.x
+    - Python 3.x
