@@ -1,6 +1,6 @@
 # Obstacle Avoidance with Control Barrier Function(CBF)
 Obstacle Avoidance using CBF and coverage using Centroidal Voronoi Tessellation (CVT). 
-
+![A demonstration of coverage and obstacle avoidance in a real-life setting](/assets/cvt.gif)
 ## Requirements
 
 - Computer
